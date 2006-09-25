@@ -10,7 +10,7 @@ Source0:	http://dl.sourceforge.net/qingy/%{_name}_0.3_themepack_%{version}.tar.b
 # Source0-md5:	578413ba5861c667674b6d65976a0370
 URL:		http://qingy.sourceforge.net/themes.php
 BuildRequires:	rpmbuild(macros) >= 1.129
-Requires:	quingy >= 0.9.1
+Requires:	qingy >= 0.9.1
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
