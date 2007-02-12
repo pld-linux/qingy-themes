@@ -1,6 +1,6 @@
 %define		_name	qingy
 Summary:	Qingy themepack
-Summary(pl.UTF-8):   Motywy do Qingy
+Summary(pl.UTF-8):	Motywy do Qingy
 Name:		%{_name}-themes
 Version:	1.0
 Release:	1
@@ -22,7 +22,7 @@ Motywy do qingy. Pusty katalog główny.
 
 %package -n %{_name}-theme-aquaish
 Summary:	Qingy theme aquaish
-Summary(pl.UTF-8):   Motyw aquaish dla qingy
+Summary(pl.UTF-8):	Motyw aquaish dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -34,7 +34,7 @@ Aquaish jest motywem dla qingy w stylu aqua.
 
 %package -n %{_name}-theme-biohazard
 Summary:	Qingy theme biohazard
-Summary(pl.UTF-8):   Motyw biohazard dla qingy
+Summary(pl.UTF-8):	Motyw biohazard dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -46,7 +46,7 @@ Biohazard jest motywem dla qingy.
 
 %package -n %{_name}-theme-casablanca
 Summary:	Qingy theme casablanca
-Summary(pl.UTF-8):   Motyw kasablanka dla qingy
+Summary(pl.UTF-8):	Motyw kasablanka dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -58,7 +58,7 @@ Casablanca jest motywem dla qingy w stylu kasablanki.
 
 %package -n %{_name}-theme-ComputerRoom
 Summary:	Qingy theme ComputerRoom
-Summary(pl.UTF-8):   Motyw ComputerRoom dla qingy
+Summary(pl.UTF-8):	Motyw ComputerRoom dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -70,7 +70,7 @@ ComputerRoom jest motywem dla qingy.
 
 %package -n %{_name}-theme-fireplace
 Summary:	Qingy theme fireplace
-Summary(pl.UTF-8):   Motyw fireplace dla qingy
+Summary(pl.UTF-8):	Motyw fireplace dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -82,7 +82,7 @@ Fireplace jest motywem dla qingy.
 
 %package -n %{_name}-theme-frag
 Summary:	Qingy theme frag
-Summary(pl.UTF-8):   Motyw frag dla qingy
+Summary(pl.UTF-8):	Motyw frag dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -94,7 +94,7 @@ Frag jest motywem dla qingy.
 
 %package -n %{_name}-theme-gentoo
 Summary:	Qingy theme gentoo
-Summary(pl.UTF-8):   Motyw gentoo dla qingy
+Summary(pl.UTF-8):	Motyw gentoo dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -106,7 +106,7 @@ Motyw dla qingy w stylu gentoo.
 
 %package -n %{_name}-theme-gentoo_box
 Summary:	Qingy theme gentoo_box
-Summary(pl.UTF-8):   Motyw gentoo_box dla qingy
+Summary(pl.UTF-8):	Motyw gentoo_box dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -118,7 +118,7 @@ Kolejny motyw dla qingy w stylu gentoo.
 
 %package -n %{_name}-theme-kitten
 Summary:	Qingy theme kitten
-Summary(pl.UTF-8):   Motyw kitten dla qingy
+Summary(pl.UTF-8):	Motyw kitten dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -130,7 +130,7 @@ Kitten jest motywem dla qingy.
 
 %package -n %{_name}-theme-lambretta
 Summary:	Qingy theme lambretta
-Summary(pl.UTF-8):   Motyw lambretta dla qingy
+Summary(pl.UTF-8):	Motyw lambretta dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -142,7 +142,7 @@ lambretta jest motywem dla qingy.
 
 %package -n %{_name}-theme-matrix
 Summary:	Qingy theme matrix
-Summary(pl.UTF-8):   Motyw matrix dla qingy
+Summary(pl.UTF-8):	Motyw matrix dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -154,7 +154,7 @@ Motyw dla qingy w stylu matriksa.
 
 %package -n %{_name}-theme-vendetta
 Summary:	Qingy theme vendetta
-Summary(pl.UTF-8):   Motyw vendetta dla qingy
+Summary(pl.UTF-8):	Motyw vendetta dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -166,7 +166,7 @@ Vendetta jest motywem dla qingy.
 
 %package -n %{_name}-theme-vendetta2
 Summary:	Qingy theme vendetta2
-Summary(pl.UTF-8):   Motyw vendetta2 dla qingy
+Summary(pl.UTF-8):	Motyw vendetta2 dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
@@ -178,7 +178,7 @@ Kolejny motyw dla qingy w stylu vendetta.
 
 %package -n %{_name}-theme-vendetta3
 Summary:	Qingy theme vendetta3
-Summary(pl.UTF-8):   Motyw vendetta3 dla qingy
+Summary(pl.UTF-8):	Motyw vendetta3 dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
