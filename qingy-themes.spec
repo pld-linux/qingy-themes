@@ -1,6 +1,6 @@
 %define		_name	qingy
 Summary:	Qingy themepack
-Summary(pl):	Motywy do Qingy
+Summary(pl.UTF-8):   Motywy do Qingy
 Name:		%{_name}-themes
 Version:	1.0
 Release:	1
@@ -17,175 +17,175 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Themepack for qingy. Empty main directory.
 
-%description -l pl
-Motywy do qingy. Pusty katalog g≥Ûwny.
+%description -l pl.UTF-8
+Motywy do qingy. Pusty katalog g≈Ç√≥wny.
 
 %package -n %{_name}-theme-aquaish
 Summary:	Qingy theme aquaish
-Summary(pl):	Motyw aquaish dla qingy
+Summary(pl.UTF-8):   Motyw aquaish dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-aquaish
 Aquaish is an aqua-like theme for qingy.
 
-%description -n %{_name}-theme-aquaish -l pl
+%description -n %{_name}-theme-aquaish -l pl.UTF-8
 Aquaish jest motywem dla qingy w stylu aqua.
 
 %package -n %{_name}-theme-biohazard
 Summary:	Qingy theme biohazard
-Summary(pl):	Motyw biohazard dla qingy
+Summary(pl.UTF-8):   Motyw biohazard dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-biohazard
 Biohazard is an theme for qingy.
 
-%description -n %{_name}-theme-biohazard -l pl
+%description -n %{_name}-theme-biohazard -l pl.UTF-8
 Biohazard jest motywem dla qingy.
 
 %package -n %{_name}-theme-casablanca
 Summary:	Qingy theme casablanca
-Summary(pl):	Motyw kasablanka dla qingy
+Summary(pl.UTF-8):   Motyw kasablanka dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-casablanca
 Casablanca is an theme for qingy.
 
-%description -n %{_name}-theme-casablanca -l pl
+%description -n %{_name}-theme-casablanca -l pl.UTF-8
 Casablanca jest motywem dla qingy w stylu kasablanki.
 
 %package -n %{_name}-theme-ComputerRoom
 Summary:	Qingy theme ComputerRoom
-Summary(pl):	Motyw ComputerRoom dla qingy
+Summary(pl.UTF-8):   Motyw ComputerRoom dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-ComputerRoom
 ComputerRoom is an theme for qingy.
 
-%description -n %{_name}-theme-ComputerRoom -l pl
+%description -n %{_name}-theme-ComputerRoom -l pl.UTF-8
 ComputerRoom jest motywem dla qingy.
 
 %package -n %{_name}-theme-fireplace
 Summary:	Qingy theme fireplace
-Summary(pl):	Motyw fireplace dla qingy
+Summary(pl.UTF-8):   Motyw fireplace dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-fireplace
 Fireplace is an theme for qingy.
 
-%description -n %{_name}-theme-fireplace -l pl
+%description -n %{_name}-theme-fireplace -l pl.UTF-8
 Fireplace jest motywem dla qingy.
 
 %package -n %{_name}-theme-frag
 Summary:	Qingy theme frag
-Summary(pl):	Motyw frag dla qingy
+Summary(pl.UTF-8):   Motyw frag dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-frag
 Frag is an theme for qingy.
 
-%description -n %{_name}-theme-frag -l pl
+%description -n %{_name}-theme-frag -l pl.UTF-8
 Frag jest motywem dla qingy.
 
 %package -n %{_name}-theme-gentoo
 Summary:	Qingy theme gentoo
-Summary(pl):	Motyw gentoo dla qingy
+Summary(pl.UTF-8):   Motyw gentoo dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-gentoo
 An gentoo-like theme for qingy.
 
-%description -n %{_name}-theme-gentoo -l pl
+%description -n %{_name}-theme-gentoo -l pl.UTF-8
 Motyw dla qingy w stylu gentoo.
 
 %package -n %{_name}-theme-gentoo_box
 Summary:	Qingy theme gentoo_box
-Summary(pl):	Motyw gentoo_box dla qingy
+Summary(pl.UTF-8):   Motyw gentoo_box dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-gentoo_box
 Another gentoo theme for qingy.
 
-%description -n %{_name}-theme-gentoo_box -l pl
+%description -n %{_name}-theme-gentoo_box -l pl.UTF-8
 Kolejny motyw dla qingy w stylu gentoo.
 
 %package -n %{_name}-theme-kitten
 Summary:	Qingy theme kitten
-Summary(pl):	Motyw kitten dla qingy
+Summary(pl.UTF-8):   Motyw kitten dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-kitten
 Kitten is an theme for qingy.
 
-%description -n %{_name}-theme-kitten -l pl
+%description -n %{_name}-theme-kitten -l pl.UTF-8
 Kitten jest motywem dla qingy.
 
 %package -n %{_name}-theme-lambretta
 Summary:	Qingy theme lambretta
-Summary(pl):	Motyw lambretta dla qingy
+Summary(pl.UTF-8):   Motyw lambretta dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-lambretta
 Lambretta is an theme for qingy.
 
-%description -n %{_name}-theme-lambretta -l pl
+%description -n %{_name}-theme-lambretta -l pl.UTF-8
 lambretta jest motywem dla qingy.
 
 %package -n %{_name}-theme-matrix
 Summary:	Qingy theme matrix
-Summary(pl):	Motyw matrix dla qingy
+Summary(pl.UTF-8):   Motyw matrix dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-matrix
 An matrix-like theme for qingy.
 
-%description -n %{_name}-theme-matrix -l pl
+%description -n %{_name}-theme-matrix -l pl.UTF-8
 Motyw dla qingy w stylu matriksa.
 
 %package -n %{_name}-theme-vendetta
 Summary:	Qingy theme vendetta
-Summary(pl):	Motyw vendetta dla qingy
+Summary(pl.UTF-8):   Motyw vendetta dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-vendetta
 Vendetta is an theme for qingy.
 
-%description -n %{_name}-theme-vendetta -l pl
+%description -n %{_name}-theme-vendetta -l pl.UTF-8
 Vendetta jest motywem dla qingy.
 
 %package -n %{_name}-theme-vendetta2
 Summary:	Qingy theme vendetta2
-Summary(pl):	Motyw vendetta2 dla qingy
+Summary(pl.UTF-8):   Motyw vendetta2 dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-vendetta2
 Another vendetta theme for qingy.
 
-%description -n %{_name}-theme-vendetta2 -l pl
+%description -n %{_name}-theme-vendetta2 -l pl.UTF-8
 Kolejny motyw dla qingy w stylu vendetta.
 
 %package -n %{_name}-theme-vendetta3
 Summary:	Qingy theme vendetta3
-Summary(pl):	Motyw vendetta3 dla qingy
+Summary(pl.UTF-8):   Motyw vendetta3 dla qingy
 Group:		Themes
 Requires:	%{name} = %{version}-%{release}
 
 %description -n %{_name}-theme-vendetta3
 Another vendetta theme for qingy.
 
-%description -n %{_name}-theme-vendetta3 -l pl
+%description -n %{_name}-theme-vendetta3 -l pl.UTF-8
 Kolejny motyw dla qingy w stylu vendetta.
 
 %prep
